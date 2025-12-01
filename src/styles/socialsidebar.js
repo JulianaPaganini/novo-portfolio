@@ -14,7 +14,7 @@ export const SidebarContainer = styled.div`
    @media (max-width: 768px) {
     position: absolute;    /* <-- Muda aqui! */
     right: 50%;
-    top: 132%;             /* Fica logo abaixo da foto */
+    top: 120%;             /* Fica logo abaixo da foto */
     transform: translateX(50%);
     flex-direction: row;
     gap: 16px; 
